@@ -1,0 +1,37 @@
+[33mcommit 3785bf3099bd55895fd09fe820a83e66524c77ce[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 0ff9199 d8fc96b
+Author: IhorStorozhok <storozhokigor@gmail.com>
+Date:   Thu Dec 16 17:39:14 2021 +0200
+
+    propsTypes added
+
+[33mcommit 0ff9199e8d8b06f13bc5eef9296b58dd0accad88[m
+Merge: a5c29a1 afe97b5
+Author: IhorStorozhok <storozhokigor@gmail.com>
+Date:   Tue Dec 14 23:28:13 2021 +0200
+
+    ff
+
+[33mcommit d8fc96b958c779a7b97a8e6c1cc9222da05a30f7[m
+Author: IhorStorozhok <83807214+IhorStorozhok@users.noreply.github.com>
+Date:   Tue Dec 14 23:26:01 2021 +0200
+
+    Delete README.md
+
+[33mcommit a5c29a1b28a330ea7bcac3016830f9fcf394af22[m[33m ([m[1;31morigin/new[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mnew[m[33m, [m[1;32mmaster[m[33m)[m
+Author: IhorStorozhok <storozhokigor@gmail.com>
+Date:   Tue Dec 14 23:01:08 2021 +0200
+
+    4
+
+[33mcommit afe97b5d09f54d9c829882fe84e7abe331a8d61e[m
+Author: IhorStorozhok <storozhokigor@gmail.com>
+Date:   Mon Dec 13 21:15:58 2021 +0200
+
+    2
+
+[33mcommit 9482e31253807017594b541147bef4dd4d2f0040[m
+Author: IhorStorozhok <storozhokigor@gmail.com>
+Date:   Mon Dec 13 21:02:32 2021 +0200
+
+    first commit
